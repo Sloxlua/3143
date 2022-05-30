@@ -1,0 +1,7 @@
+local a = game.Players.LocalPlayer
+local b = otuzbir
+wait(0.1)
+print("Sj")
+a:Kick()
+
+--Execute de 5000 robux geliyo
